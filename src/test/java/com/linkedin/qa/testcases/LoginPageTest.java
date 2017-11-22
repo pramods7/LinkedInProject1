@@ -42,7 +42,7 @@ public class LoginPageTest extends TestBase{
 	}
 	
 	
-	
+	//quit window
 	@AfterMethod
 	public void tearDown(){
 		driver.quit();
